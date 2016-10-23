@@ -1,0 +1,12 @@
+Action,35
+Adventure,29
+Animation,20
+Biography,21
+Comedy,25
+Crime,39
+Drama,67
+Film-Noir,2
+Horror,3
+Mystery,5
+Sci-Fi,1
+Western,3

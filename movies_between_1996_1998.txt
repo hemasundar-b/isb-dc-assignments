@@ -1,0 +1,13 @@
+MovieRank	MovieName	Year
+26	La vita è bella	1997
+29	Saving Private Ryan	1998
+31	American History X	1998
+65	Mononoke-hime	1997
+97	L	1997
+107	Good Will Hunting	1997
+118	Bacheha-Ye aseman	1997
+136	Lock, Stock and Two Smoking Barrels	1998
+151	The Big Lebowski	1998
+155	Trainspotting	1996
+157	Fargo	1996
+206	The Truman Show	1998
